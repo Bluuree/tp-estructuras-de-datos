@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Red Dead Redemption 2",
+    "genero": "Acción",
+    "raiting": 9.8,
+    "estudio": "Rockstar Games",
+    "anio": 2018
+  },
+  {
+    "nombre": "Wuthering Waves",
+    "genero": "RPG",
+    "raiting": 8.5,
+    "estudio": "Kuro Games",
+    "anio": 2024
+  },
+  {
+    "nombre": "League of Legends",
+    "genero": "MOBA",
+    "raiting": 7.8,
+    "estudio": "Riot Games",
+    "anio": 2009
+  }
+]
