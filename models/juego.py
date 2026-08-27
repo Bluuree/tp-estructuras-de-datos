@@ -38,4 +38,4 @@ class videoJuegos():
 
     
     def __repr__(self) -> str:
-        return f"👾 Videojuego: {self._nombre} , 🕹️ Genero: {self._genero} , ⭐ Raiting: {self._raiting} , 👨‍💻 Desarrollador: {self._estudio} , 🗓️Año {self._año}"
+        return f"👾 Videojuego: {self._nombre} \n🕹️ Genero: {self._genero} \n⭐ Raiting: {self._raiting} \n🛠️ Desarrollador: {self._estudio} \n🗓️ Año {self._año}"
