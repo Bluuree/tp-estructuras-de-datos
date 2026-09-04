@@ -1,3 +1,5 @@
+from models.genero import Genero
+
 class videoJuegos():
     def __init__(self,nombre,genero:Genero,raiting:float,estudio,año: int):
         self._nombre = nombre

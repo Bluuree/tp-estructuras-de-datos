@@ -1,5 +1,5 @@
 from datos.gestor_datos import cargar_videojuegos
+from ui.terminal import iniciar
 
-lista_juegos = cargar_videojuegos()
-for juego in lista_juegos:
-  print(juego)
+if __name__ == "__main__":
+    iniciar()

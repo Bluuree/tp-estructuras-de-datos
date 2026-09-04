@@ -1,7 +1,14 @@
 [
   {
+    "nombre": "League of Legends",
+    "genero": "MOBA",
+    "raiting": 7.8,
+    "estudio": "Riot Games",
+    "anio": 2009
+  },
+  {
     "nombre": "Red Dead Redemption 2",
-    "genero": "Acción",
+    "genero": "Accion",
     "raiting": 9.8,
     "estudio": "Rockstar Games",
     "anio": 2018
@@ -19,5 +26,61 @@
     "raiting": 7.8,
     "estudio": "Riot Games",
     "anio": 2009
+  },
+  {
+    "nombre": "Minecraft",
+    "genero": "Sandbox",
+    "raiting": 9.5,
+    "estudio": "Mojang Studios",
+    "anio": 2011
+  },
+  {
+    "nombre": "The Witcher 3: Wild Hunt",
+    "genero": "RPG",
+    "raiting": 9.7,
+    "estudio": "CD Projekt Red",
+    "anio": 2015
+  },
+  {
+    "nombre": "Hollow Knight",
+    "genero": "Metroidvania",
+    "raiting": 9.4,
+    "estudio": "Team Cherry",
+    "anio": 2017
+  },
+  {
+    "nombre": "Counter-Strike 2",
+    "genero": "FPS",
+    "raiting": 8.9,
+    "estudio": "Valve",
+    "anio": 2023
+  },
+  {
+    "nombre": "Elden Ring",
+    "genero": "RPG",
+    "raiting": 9.7,
+    "estudio": "FromSoftware",
+    "anio": 2022
+  },
+  {
+    "nombre": "Stardew Valley",
+    "genero": "Simulación",
+    "raiting": 9.3,
+    "estudio": "ConcernedApe",
+    "anio": 2016
+  },
+  {
+    "nombre": "Celeste",
+    "genero": "Plataformas",
+    "raiting": 9.2,
+    "estudio": "Extremely OK Games",
+    "anio": 2018
+  },
+  {
+    "nombre": "Hotline miami",
+    "genero": "Accion",
+    "raiting": 8.3,
+    "estudio": "Dennaton Games",
+    "anio": "2012"
   }
 ]
