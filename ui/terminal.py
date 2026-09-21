@@ -1,6 +1,12 @@
 from datos.gestor_datos import cargar_videojuegos
+from estructura.arbol_binario import ArbolBinarioBusqueda
 
 juegos = cargar_videojuegos()
+
+arbol = ArbolBinarioBusqueda()
+
+for juego in juegos:
+    arbol.insertar(juego)
 
 
 def listar():
@@ -11,18 +17,12 @@ def buscar():
 
     nombre = input("Ingrese el nombre del videojuego: ")
 
-    encontrado = False
+    resultado = arbol.buscar(nombre)
 
-    for juego in juegos:
-
-        if juego.nombre.lower() == nombre.lower():
-
-            print(juego)
-
-            encontrado = True
-
-    if not encontrado:
-        print("No se encontró ningún videojuego con ese nombre.")
+    if resultado is None:
+        print("No se encontró el videojuego.")
+    else:
+        print(resultado)
     
     pass
 

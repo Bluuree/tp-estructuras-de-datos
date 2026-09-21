@@ -9,5 +9,13 @@ for juego in juegos:
     arbol.insertar(juego)
 
 resultado = arbol.buscar("Minecraft")
-resultado2 = arbol.buscar("League of Legends")
-print(resultado, resultado2)
+print(resultado)
+
+print("===== INORDER =====")
+arbol.inorder()
+
+print("\n===== PREORDER =====")
+arbol.preorden()
+
+print("\n===== POSTORDER =====")
+arbol.postorden()
