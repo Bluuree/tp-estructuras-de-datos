@@ -6,9 +6,7 @@ class videoJuegos():
         self._genero = genero
         self._estudio = estudio
         self._año = año
-        self.raiting = raiting
-
-        
+        self.raiting = raiting        
 
                               #GETTERS 
     @property
@@ -41,3 +39,14 @@ class videoJuegos():
     
     def __repr__(self) -> str:
         return f"👾 Videojuego: {self._nombre} \n🕹️ Genero: {self._genero} \n⭐ Raiting: {self._raiting} \n🛠️ Desarrollador: {self._estudio} \n🗓️ Año {self._año}"
+    
+                            # METODOS ESPECIALES 
+    
+    def __lt__(self, otro):
+        return self.raiting < otro.raiting
+    
+    def __gt__(self, otro):
+        return self.raiting > otro.raiting
+
+    
+   

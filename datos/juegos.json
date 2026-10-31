@@ -21,13 +21,6 @@
     "anio": 2024
   },
   {
-    "nombre": "League of Legends",
-    "genero": "MOBA",
-    "raiting": 7.8,
-    "estudio": "Riot Games",
-    "anio": 2009
-  },
-  {
     "nombre": "Minecraft",
     "genero": "Sandbox",
     "raiting": 9.5,
@@ -81,6 +74,139 @@
     "genero": "Accion",
     "raiting": 8.3,
     "estudio": "Dennaton Games",
-    "anio": "2012"
+    "anio": 2012
+  },
+  {
+    "nombre": "Terraria",
+    "genero": "Sandbox",
+    "raiting": 9.0,
+    "estudio": "Re-Logic",
+    "anio": 2011
+  },
+  {
+    "nombre": "No Man's Sky",
+    "genero": "Sandbox",
+    "raiting": 8.5,
+    "estudio": "Hello Games",
+    "anio": 2016
+  },
+  {
+    "nombre": "Cyberpunk 2077",
+    "genero": "Accion",
+    "raiting": 8.6,
+    "estudio": "CD Projekt Red",
+    "anio": 2020
+  },
+  {
+    "nombre": "Grand Theft Auto V",
+    "genero": "Accion",
+    "raiting": 9.5,
+    "estudio": "Rockstar Games",
+    "anio": 2013
+  },
+  {
+    "nombre": "God of War Ragnarok",
+    "genero": "Accion",
+    "raiting": 9.4,
+    "estudio": "Santa Monica Studio",
+    "anio": 2022
+  },
+  {
+    "nombre": "Dark Souls III",
+    "genero": "RPG",
+    "raiting": 9.3,
+    "estudio": "FromSoftware",
+    "anio": 2016
+  },
+  {
+    "nombre": "Persona 5 Royal",
+    "genero": "RPG",
+    "raiting": 9.5,
+    "estudio": "Atlus",
+    "anio": 2019
+  },
+  {
+    "nombre": "Final Fantasy VII Rebirth",
+    "genero": "RPG",
+    "raiting": 9.2,
+    "estudio": "Square Enix",
+    "anio": 2024
+  },
+  {
+    "nombre": "Valorant",
+    "genero": "FPS",
+    "raiting": 8.2,
+    "estudio": "Riot Games",
+    "anio": 2020
+  },
+  {
+    "nombre": "DOOM Eternal",
+    "genero": "FPS",
+    "raiting": 9.0,
+    "estudio": "id Software",
+    "anio": 2020
+  },
+  {
+    "nombre": "Portal 2",
+    "genero": "Puzzle",
+    "raiting": 9.6,
+    "estudio": "Valve",
+    "anio": 2011
+  },
+  {
+    "nombre": "Ori and the Will of the Wisps",
+    "genero": "Metroidvania",
+    "raiting": 9.1,
+    "estudio": "Moon Studios",
+    "anio": 2020
+  },
+  {
+    "nombre": "Dead Cells",
+    "genero": "Metroidvania",
+    "raiting": 8.9,
+    "estudio": "Motion Twin",
+    "anio": 2018
+  },
+  {
+    "nombre": "Super Mario Odyssey",
+    "genero": "Plataformas",
+    "raiting": 9.7,
+    "estudio": "Nintendo",
+    "anio": 2017
+  },
+  {
+    "nombre": "Hades",
+    "genero": "Accion",
+    "raiting": 9.4,
+    "estudio": "Supergiant Games",
+    "anio": 2020
+  },
+  {
+    "nombre": "Animal Crossing: New Horizons",
+    "genero": "Simulación",
+    "raiting": 8.8,
+    "estudio": "Nintendo",
+    "anio": 2020
+  },
+  {
+    "nombre": "The Sims 4",
+    "genero": "Simulación",
+    "raiting": 8.0,
+    "estudio": "Maxis",
+    "anio": 2014
+  },
+  {
+    "nombre": "Among Us",
+    "genero": "Social",
+    "raiting": 8.3,
+    "estudio": "InnerSloth",
+    "anio": 2018
+  },
+  {
+    "nombre": "Cuphead",
+    "genero": "Plataformas",
+    "raiting": 8.8,
+    "estudio": "Studio MDHR",
+    "anio": 2017
   }
 ]
