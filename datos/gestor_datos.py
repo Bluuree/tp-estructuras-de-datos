@@ -20,7 +20,7 @@ def cargar_videojuegos(ruta_archivo: str = "datos/juegos.json") -> list:
             genero=genero_obj,
             raiting=item["raiting"],
             estudio=item["estudio"],
-            año=item["anio"],
+            anio=item["anio"],
         )
 
         juegos.append(juego_obj)

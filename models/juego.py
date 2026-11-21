@@ -1,11 +1,11 @@
 from models.genero import Genero
 
 class videoJuegos():
-    def __init__(self,nombre,genero:Genero,raiting:float,estudio,año: int):
+    def __init__(self,nombre,genero:Genero,raiting:float,estudio,anio: int):
         self._nombre = nombre
         self._genero = genero
         self._estudio = estudio
-        self._año = año
+        self._anio = anio
         self.raiting = raiting        
 
                               #GETTERS 
@@ -16,8 +16,8 @@ class videoJuegos():
     def genero(self) -> str:
         return self._genero
     @property
-    def año (self) -> int:
-        return self._año
+    def anio (self) -> int:
+        return self._anio
     @property
     def estudio (self) -> str:
         return self._estudio 
@@ -34,11 +34,18 @@ class videoJuegos():
             self._raiting = nuevo_raiting
         else:
             raise ValueError("El rating debe estar entre 0.0 y 10.0")
+        
 
-
-    
     def __repr__(self) -> str:
-        return f"👾 Videojuego: {self._nombre} \n🕹️ Genero: {self._genero} \n⭐ Raiting: {self._raiting} \n🛠️ Desarrollador: {self._estudio} \n🗓️ Año {self._año}"
+        return f"""
+ ==============================
+👾 Videojuego: {self._nombre}
+🕹️ Género: {self._genero}
+⭐ Rating: {self._raiting}
+🛠️ Desarrollador: {self._estudio}
+🗓️ Año: {self._anio}
+==============================
+                """
     
                             # METODOS ESPECIALES 
     

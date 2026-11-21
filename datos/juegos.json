@@ -208,5 +208,348 @@
     "raiting": 8.8,
     "estudio": "Studio MDHR",
     "anio": 2017
+  },
+  {
+    "nombre": "Grand Theft Auto III",
+    "genero": "Accion",
+    "raiting": 9.3,
+    "estudio": "Rockstar Games",
+    "anio": 2001
+  },
+  {
+    "nombre": "Grand Theft Auto IV",
+    "genero": "Accion",
+    "raiting": 9.2,
+    "estudio": "Rockstar Games",
+    "anio": 2008
+  },
+  {
+    "nombre": "The Legend of Zelda Breath of the Wild",
+    "genero": "Aventura",
+    "raiting": 9.8,
+    "estudio": "Nintendo",
+    "anio": 2017
+  },
+  {
+    "nombre": "The Legend of Zelda Tears of the Kingdom",
+    "genero": "Aventura",
+    "raiting": 9.8,
+    "estudio": "Nintendo",
+    "anio": 2023
+  },
+  {
+    "nombre": "Super Mario 64",
+    "genero": "Plataformas",
+    "raiting": 9.8,
+    "estudio": "Nintendo",
+    "anio": 1996
+  },
+  {
+    "nombre": "Super Mario Bros Wonder",
+    "genero": "Plataformas",
+    "raiting": 9.2,
+    "estudio": "Nintendo",
+    "anio": 2023
+  },
+  {
+    "nombre": "Ori and the Blind Forest",
+    "genero": "Metroidvania",
+    "raiting": 9.0,
+    "estudio": "Moon Studios",
+    "anio": 2015
+  },
+  {
+    "nombre": "Ori and the Will of the Wisps",
+    "genero": "Metroidvania",
+    "raiting": 9.5,
+    "estudio": "Moon Studios",
+    "anio": 2020
+  },
+  {
+    "nombre": "Cuphead",
+    "genero": "Plataformas",
+    "raiting": 9.2,
+    "estudio": "Studio MDHR",
+    "anio": 2017
+  },
+  {
+    "nombre": "Hollow Knight Silksong",
+    "genero": "Metroidvania",
+    "raiting": 9.0,
+    "estudio": "Team Cherry",
+    "anio": 2025
+  },
+  {
+    "nombre": "Diablo IV",
+    "genero": "RPG",
+    "raiting": 8.6,
+    "estudio": "Blizzard Entertainment",
+    "anio": 2023
+  },
+  {
+    "nombre": "Diablo II Resurrected",
+    "genero": "RPG",
+    "raiting": 9.1,
+    "estudio": "Blizzard Entertainment",
+    "anio": 2021
+  },
+  {
+    "nombre": "Persona 5 Royal",
+    "genero": "RPG",
+    "raiting": 9.7,
+    "estudio": "Atlus",
+    "anio": 2019
+  },
+  {
+    "nombre": "Persona 4 Golden",
+    "genero": "RPG",
+    "raiting": 9.2,
+    "estudio": "Atlus",
+    "anio": 2012
+  },
+  {
+    "nombre": "Final Fantasy VII Remake",
+    "genero": "RPG",
+    "raiting": 9.4,
+    "estudio": "Square Enix",
+    "anio": 2020
+  },
+  {
+    "nombre": "Final Fantasy XVI",
+    "genero": "RPG",
+    "raiting": 8.7,
+    "estudio": "Square Enix",
+    "anio": 2023
+  },
+  {
+    "nombre": "Monster Hunter World",
+    "genero": "Accion",
+    "raiting": 9.1,
+    "estudio": "Capcom",
+    "anio": 2018
+  },
+  {
+    "nombre": "Monster Hunter Rise",
+    "genero": "Accion",
+    "raiting": 8.8,
+    "estudio": "Capcom",
+    "anio": 2021
+  },
+  {
+    "nombre": "Hogwarts Legacy",
+    "genero": "Aventura",
+    "raiting": 8.5,
+    "estudio": "Avalanche Software",
+    "anio": 2023
+  },
+  {
+    "nombre": "Assassins Creed Odyssey",
+    "genero": "Accion",
+    "raiting": 8.6,
+    "estudio": "Ubisoft",
+    "anio": 2018
+  },
+  {
+    "nombre": "Assassins Creed Valhalla",
+    "genero": "Accion",
+    "raiting": 8.3,
+    "estudio": "Ubisoft",
+    "anio": 2020
+  },
+  {
+    "nombre": "Far Cry 5",
+    "genero": "FPS",
+    "raiting": 8.5,
+    "estudio": "Ubisoft",
+    "anio": 2018
+  },
+  {
+    "nombre": "Far Cry 6",
+    "genero": "FPS",
+    "raiting": 7.8,
+    "estudio": "Ubisoft",
+    "anio": 2021
+  },
+  {
+    "nombre": "Bioshock Infinite",
+    "genero": "FPS",
+    "raiting": 9.4,
+    "estudio": "Irrational Games",
+    "anio": 2013
+  },
+  {
+    "nombre": "Bioshock Remastered",
+    "genero": "FPS",
+    "raiting": 9.0,
+    "estudio": "2K Games",
+    "anio": 2016
+  },
+  {
+    "nombre": "Halo Infinite",
+    "genero": "FPS",
+    "raiting": 8.4,
+    "estudio": "343 Industries",
+    "anio": 2021
+  },
+  {
+    "nombre": "Halo The Master Chief Collection",
+    "genero": "FPS",
+    "raiting": 9.3,
+    "estudio": "343 Industries",
+    "anio": 2014
+  },
+  {
+    "nombre": "StarCraft II",
+    "genero": "Estrategia",
+    "raiting": 9.5,
+    "estudio": "Blizzard Entertainment",
+    "anio": 2010
+  },
+  {
+    "nombre": "Age of Empires IV",
+    "genero": "Estrategia",
+    "raiting": 8.7,
+    "estudio": "Relic Entertainment",
+    "anio": 2021
+  },
+  {
+    "nombre": "Civilization VI",
+    "genero": "Estrategia",
+    "raiting": 8.9,
+    "estudio": "Firaxis Games",
+    "anio": 2016
+  },
+  {
+    "nombre": "The Sims 4",
+    "genero": "Simulacion",
+    "raiting": 8.0,
+    "estudio": "Maxis",
+    "anio": 2014
+  },
+  {
+    "nombre": "Cities Skylines",
+    "genero": "Simulacion",
+    "estudio": "Colossal Order",
+    "raiting": 8.8,
+    "anio": 2015
+  },
+  {
+    "nombre": "RimWorld",
+    "genero": "Simulacion",
+    "raiting": 9.5,
+    "estudio": "Ludeon Studios",
+    "anio": 2018
+  },
+  {
+    "nombre": "Factorio",
+    "genero": "Estrategia",
+    "raiting": 9.6,
+    "estudio": "Wube Software",
+    "anio": 2020
+  },
+  {
+    "nombre": "Don't Starve",
+    "genero": "Supervivencia",
+    "raiting": 8.7,
+    "estudio": "Klei Entertainment",
+    "anio": 2013
+  },
+  {
+    "nombre": "The Forest",
+    "genero": "Supervivencia",
+    "raiting": 8.6,
+    "estudio": "Endnight Games",
+    "anio": 2018
+  },
+  {
+    "nombre": "Sons of the Forest",
+    "genero": "Supervivencia",
+    "raiting": 8.2,
+    "estudio": "Endnight Games",
+    "anio": 2023
+  },
+  {
+    "nombre": "Left 4 Dead 2",
+    "genero": "FPS",
+    "raiting": 9.2,
+    "estudio": "Valve",
+    "anio": 2009
+  },
+  {
+    "nombre": "Payday 2",
+    "genero": "FPS",
+    "raiting": 8.4,
+    "estudio": "Starbreeze Studios",
+    "anio": 2013
+  },
+  {
+    "nombre": "Dead Space Remake",
+    "genero": "Terror",
+    "raiting": 9.0,
+    "estudio": "EA Motive",
+    "anio": 2023
+  },
+  {
+    "nombre": "Silent Hill 2 Remake",
+    "genero": "Terror",
+    "raiting": 9.1,
+    "estudio": "Bloober Team",
+    "anio": 2024
+  },
+  {
+    "nombre": "Amnesia The Dark Descent",
+    "genero": "Terror",
+    "raiting": 8.8,
+    "estudio": "Frictional Games",
+    "anio": 2010
+  },
+  {
+    "nombre": "Little Nightmares",
+    "genero": "Terror",
+    "raiting": 8.8,
+    "estudio": "Tarsier Studios",
+    "anio": 2017
+  },
+  {
+    "nombre": "FIFA 23",
+    "genero": "Deportes",
+    "raiting": 7.5,
+    "estudio": "EA Sports",
+    "anio": 2022
+  },
+  {
+    "nombre": "NBA 2K25",
+    "genero": "Deportes",
+    "raiting": 7.8,
+    "estudio": "Visual Concepts",
+    "anio": 2024
+  },
+  {
+    "nombre": "Tekken 8",
+    "genero": "Lucha",
+    "raiting": 8.8,
+    "estudio": "Bandai Namco",
+    "anio": 2024
+  },
+  {
+    "nombre": "Super Smash Bros Ultimate",
+    "genero": "Lucha",
+    "raiting": 9.5,
+    "estudio": "Nintendo",
+    "anio": 2018
+  },
+  {
+    "nombre": "Among Us",
+    "genero": "Multijugador",
+    "raiting": 8.2,
+    "estudio": "InnerSloth",
+    "anio": 2018
+  },
+  {
+    "nombre": "Fall Guys",
+    "genero": "Battle Royale",
+    "raiting": 8.0,
+    "estudio": "Mediatonic",
+    "anio": 2020
   }
 ]

@@ -33,7 +33,7 @@ class ArbolBinarioBusqueda:
         if self.raiz is None:
             return None
         
-        elif self.raiz.videojuego.nombre == nombre:
+        elif self.raiz.videojuego.nombre.lower() == nombre.lower():
             return self.raiz.videojuego
         else: 
             return self._busqueda_recursiva(self.raiz, nombre)
@@ -43,13 +43,13 @@ class ArbolBinarioBusqueda:
         if nodo_actual is None:
              return None
              
-        if nombre == nodo_actual.videojuego.nombre:
+        if nombre.lower() == nodo_actual.videojuego.nombre.lower():
                   return nodo_actual.videojuego
 
-        if nombre < nodo_actual.videojuego.nombre:
+        if nombre.lower() < nodo_actual.videojuego.nombre.lower() :
                return self._busqueda_recursiva(nodo_actual.izquierdo , nombre)
 
-        elif nombre > nodo_actual.videojuego.nombre:
+        elif nombre.lower()  > nodo_actual.videojuego.nombre.lower() :
                 return self._busqueda_recursiva(nodo_actual.derecho , nombre)
     
     def inorder(self):
