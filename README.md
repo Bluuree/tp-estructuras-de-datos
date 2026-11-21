@@ -37,6 +37,7 @@ python main.py
 Al inicar el Programa vera un MENU principal
 ==============================
       LIBRERIA DE JUEGOS
+
 ==============================
 1. Listar videojuegos
 2. Buscar videojuego
@@ -44,9 +45,10 @@ Al inicar el Programa vera un MENU principal
 4. Top 5 videojuegos
 5. Buscar Juegos similares
 0. Salir
+
 ==============================
 
-1. Listar videojuegos
+1 - Listar videojuegos
 Muestra todos los videojuegos disponibles en la biblioteca junto con su información:
 - Nombre
 - Género
@@ -54,21 +56,21 @@ Muestra todos los videojuegos disponibles en la biblioteca junto con su informac
 - Desarrolladora
 - Año de lanzamiento
 
-2. Buscar videojuego
+2 - Buscar videojuego
 Permite buscar un videojuego específico ingresando su nombre.
 La búsqueda no distingue entre mayúsculas y minúsculas.
 
-3. Filtrar videojuegos
+3 -  Filtrar videojuegos
 Permite obtener videojuegos según diferentes criterios, como Filtar por GENERO, AÑO y RANGO de AÑOS
 
-4. Top 5 videojuegos
+4 - Top 5 videojuegos
 Permite obtener rankings utilizando un Heap.
 
 Opciones:
 - Top 5 de toda la biblioteca.
 - Top 5 por género.
 
-5. Buscar juegos similares
+5 - Buscar juegos similares
 Permite encontrar videojuegos relacionados mediante grafos.
 
 El programa cuenta con dos tipos de relaciones:
